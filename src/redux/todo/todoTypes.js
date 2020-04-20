@@ -1,0 +1,10 @@
+export const FETCH_TODOS = "FETCH_TODOS";
+export const FETCH_TODOS_SUCCESS = "FETCH_TODOS_SUCCESS";
+export const FETCH_TODOS_FAILURE = "FETCH_TODOS_FAILURE";
+export const TOGGLE_MODEL = "TOGGLE_MODEL";
+export const ADD_TODO = "ADD_TODO";
+export const SAVING = "SAVING";
+export const TOGGLE_TAB = "TOGGLE_TAB";
+export const UPDATE_TODO = "UPDATE_TODO";
+export const DELETE_TODO = "DELETE_TODO";
+export const CHANGE_STATUS = "CHANGE_STATUS";
